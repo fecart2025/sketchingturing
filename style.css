@@ -82,7 +82,7 @@ body::before {
    - background-size: contain evita distorções, respeitando a proporção da imagem
    - height define a altura do cabeçalho sem depender de conteúdo no HTML
    - box-shadow cria uma sombra apenas na parte inferior do cabeçalho */
-header {
+ header {
     background-image: url("./fecart.png");
     background-size: cover;
     background-position: center;
